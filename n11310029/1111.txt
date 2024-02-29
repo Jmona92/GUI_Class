@@ -1,0 +1,6 @@
+git clone
+git add .
+git config --global user.email a00979592@gmail.com
+git config --global user.name Jmoma92
+git commit -m "Creata Label"
+git push -u origin main
