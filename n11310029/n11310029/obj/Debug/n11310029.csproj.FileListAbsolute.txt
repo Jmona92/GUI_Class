@@ -1,0 +1,10 @@
+C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\bin\Debug\n11310029.exe.config
+C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\bin\Debug\n11310029.exe
+C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\bin\Debug\n11310029.pdb
+C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\obj\Debug\n11310029.csproj.AssemblyReference.cache
+C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\obj\Debug\n11310029.Form1.resources
+C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\obj\Debug\n11310029.Properties.Resources.resources
+C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\obj\Debug\n11310029.csproj.GenerateResource.cache
+C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\obj\Debug\n11310029.csproj.CoreCompileInputs.cache
+C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\obj\Debug\n11310029.exe
+C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\obj\Debug\n11310029.pdb
