@@ -16,5 +16,13 @@ namespace n11310029
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+
+            button1.Text="按鈕";
+
+        }
     }
 }
