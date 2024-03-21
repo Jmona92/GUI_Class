@@ -25,5 +25,24 @@ namespace n11310029
             else if (button1.Text=="我已經被按過了")
                 button1.Text ="請按我一下";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label1.Text = "下方按鈕已被按過";
+            label1.Size = new System.Drawing.Size(100, 20);
+            label1.BackColor = System.Drawing.Color.Green;
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCount_Click(object sender, EventArgs e)
+        {
+            string tmp = labCount.Text;
+            int sum = Int32.Parse(tmp)+1;
+            labCount.Text = sum.ToString();
+        }
     }
 }
