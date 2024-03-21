@@ -33,6 +33,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.labCount = new System.Windows.Forms.Label();
             this.btnCount = new System.Windows.Forms.Button();
+            this.btnCount2 = new System.Windows.Forms.Button();
+            this.labCount2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -84,11 +86,32 @@
             this.btnCount.UseVisualStyleBackColor = true;
             this.btnCount.Click += new System.EventHandler(this.btnCount_Click);
             // 
+            // btnCount2
+            // 
+            this.btnCount2.Location = new System.Drawing.Point(400, 251);
+            this.btnCount2.Name = "btnCount2";
+            this.btnCount2.Size = new System.Drawing.Size(75, 23);
+            this.btnCount2.TabIndex = 5;
+            this.btnCount2.Text = "減1";
+            this.btnCount2.UseVisualStyleBackColor = true;
+            this.btnCount2.Click += new System.EventHandler(this.btnCount2_Click);
+            // 
+            // labCount2
+            // 
+            this.labCount2.AutoSize = true;
+            this.labCount2.Location = new System.Drawing.Point(430, 208);
+            this.labCount2.Name = "labCount2";
+            this.labCount2.Size = new System.Drawing.Size(11, 12);
+            this.labCount2.TabIndex = 6;
+            this.labCount2.Text = "0";
+            // 
             // FormButton
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.labCount2);
+            this.Controls.Add(this.btnCount2);
             this.Controls.Add(this.labCount);
             this.Controls.Add(this.btnCount);
             this.Controls.Add(this.label1);
@@ -108,5 +131,7 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label labCount;
         private System.Windows.Forms.Button btnCount;
+        private System.Windows.Forms.Button btnCount2;
+        private System.Windows.Forms.Label labCount2;
     }
 }

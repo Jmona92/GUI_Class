@@ -44,5 +44,12 @@ namespace n11310029
             int sum = Int32.Parse(tmp)+1;
             labCount.Text = sum.ToString();
         }
+
+        private void btnCount2_Click(object sender, EventArgs e)
+        {
+            string tmp = labCount2.Text;
+            int sum = Int32.Parse(tmp)-1;
+            labCount2.Text = sum.ToString();
+        }
     }
 }
