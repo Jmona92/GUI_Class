@@ -38,11 +38,12 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
+            this.btnTextBox = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(628, 225);
+            this.button1.Location = new System.Drawing.Point(606, 227);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 0;
@@ -125,11 +126,22 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
+            // btnTextBox
+            // 
+            this.btnTextBox.Location = new System.Drawing.Point(477, 227);
+            this.btnTextBox.Name = "btnTextBox";
+            this.btnTextBox.Size = new System.Drawing.Size(75, 23);
+            this.btnTextBox.TabIndex = 9;
+            this.btnTextBox.Text = "輸入框";
+            this.btnTextBox.UseVisualStyleBackColor = true;
+            this.btnTextBox.Click += new System.EventHandler(this.btnTextBox_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnTextBox);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
@@ -156,6 +168,7 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnTextBox;
     }
 }
 

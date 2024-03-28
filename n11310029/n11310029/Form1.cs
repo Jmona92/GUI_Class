@@ -31,5 +31,11 @@ namespace n11310029
         {
 
         }
+
+        private void btnTextBox_Click(object sender, EventArgs e)
+        {
+            Form formTextBox = new FormTextBox();
+            formTextBox.Show();
+        }
     }
 }
