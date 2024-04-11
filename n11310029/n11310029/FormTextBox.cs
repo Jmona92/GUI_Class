@@ -26,5 +26,18 @@ namespace n11310029
         {
             label1.Text = tblnput.Text;
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int a = Int32.Parse(textBox2.Text);
+            int b = Int32.Parse(textBox3.Text);
+            int sum = a + b;
+            label4.Text =sum.ToString();
+        }
     }
 }
