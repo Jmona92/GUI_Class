@@ -26,7 +26,7 @@ namespace n11310029
         private void button2_Click(object sender, EventArgs e)
         {
             int a = Int32.Parse(textBox1.Text);
-            int sum = (a)*(9/5)+32;
+            double sum = (a)*(1.8)+32;
             label3.Text =sum.ToString();
         }
 
