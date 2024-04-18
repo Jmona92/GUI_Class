@@ -10,3 +10,4 @@ C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\obj\Debug\n11310029.exe
 C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\obj\Debug\n11310029.pdb
 C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\obj\Debug\n11310029.FormButton.resources
 C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\obj\Debug\n11310029.FormTextBox.resources
+C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\obj\Debug\n11310029.期中考.resources

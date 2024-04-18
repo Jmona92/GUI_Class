@@ -37,5 +37,11 @@ namespace n11310029
             Form formTextBox = new FormTextBox();
             formTextBox.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+           Form 期中考 = new 期中考();
+            期中考.Show();
+        }
     }
 }
