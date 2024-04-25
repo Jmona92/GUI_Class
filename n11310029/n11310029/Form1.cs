@@ -43,5 +43,11 @@ namespace n11310029
            Form 期中考 = new 期中考();
             期中考.Show();
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            Form formTryCatch = new Form_TryCatch();
+            formTryCatch.Show();
+        }
     }
 }
