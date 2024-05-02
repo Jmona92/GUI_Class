@@ -46,6 +46,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="..\..\..\FormTimer.cs">
+      <SubType>Form</SubType>
+      <Link>FormTimer.cs</Link>
+    </Compile>
+    <Compile Include="..\..\..\FormTimer.Designer.cs">
+      <DependentUpon>FormTimer.cs</DependentUpon>
+      <Link>FormTimer.Designer.cs</Link>
+    </Compile>
     <Compile Include="FormTryCatch.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -86,6 +94,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormTextBox.resx">
       <DependentUpon>FormTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\..\FormTimer.resx">
+      <DependentUpon>FormTimer.cs</DependentUpon>
+      <Link>FormTimer.resx</Link>
     </EmbeddedResource>
     <EmbeddedResource Include="FormTryCatch.resx">
       <DependentUpon>FormTryCatch.cs</DependentUpon>

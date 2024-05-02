@@ -49,5 +49,16 @@ namespace n11310029
             Form formTryCatch = new Form_TryCatch();
             formTryCatch.Show();
         }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Form formTimer = new FormTimer();
+            formTimer.Show();
+        }
     }
 }
