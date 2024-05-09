@@ -60,5 +60,11 @@ namespace n11310029
             Form formTimer = new FormTimer();
             formTimer.Show();
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Form formGameFinalPasw = new FormGameFinalPasw();
+            formGameFinalPasw.Show();
+        }
     }
 }

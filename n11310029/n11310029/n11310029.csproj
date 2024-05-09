@@ -54,6 +54,12 @@
       <DependentUpon>FormTimer.cs</DependentUpon>
       <Link>FormTimer.Designer.cs</Link>
     </Compile>
+    <Compile Include="FormGameFinalPasw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGameFinalPasw.Designer.cs">
+      <DependentUpon>FormGameFinalPasw.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormTryCatch.cs">
       <SubType>Form</SubType>
     </Compile>
