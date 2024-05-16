@@ -13,3 +13,4 @@ C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\obj\Debug\n11310029.FormTex
 C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\obj\Debug\n11310029.期中考.resources
 C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\obj\Debug\n11310029.Form_TryCatch.resources
 C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\obj\Debug\n11310029.FormTimer.resources
+C:\Users\MEGAS\Desktop\GUI_Class\n11310029\n11310029\obj\Debug\n11310029.FormGameFinalPasw.resources

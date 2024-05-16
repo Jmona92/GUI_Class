@@ -25,5 +25,10 @@ namespace n11310029
             label1.Text= String.Format("{0}秒", this.second);
             this.second++;
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
