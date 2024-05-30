@@ -66,5 +66,11 @@ namespace n11310029
             Form formGameFinalPasw = new FormGameFinalPasw();
             formGameFinalPasw.Show();
         }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Form formCheckbox = new FormCheckBox();
+            formCheckbox.Show();
+        }
     }
 }
